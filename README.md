@@ -1,6 +1,6 @@
 # Emacs for ReactJS
 
-emacs init.el for editing Reactjs projects.
+_Emacs `init.el` optimized for editing Reactjs projects._
 
 ## Background
 
