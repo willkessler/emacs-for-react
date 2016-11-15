@@ -30,7 +30,7 @@
   (package-refresh-contents))
 
 ;; Now list the packages you want
-(setq package-list '(ample-theme
+(setq package-list '(afternoon-theme
 		     bash-completion
 		     company
 		     flx-ido
@@ -116,14 +116,12 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;
-;; Set up ample-theme: https://github.com/jordonbiondo/ample-theme
+;; Set up afternoon-theme: https://github.com/jordonbiondo/ample-theme
 ;;
 
-(load-theme 'ample t t)
-(load-theme 'ample-flat t t)
-(load-theme 'ample-light t t)
+(load-theme 'afternoon t t)
 ;; choose one to enable
-(enable-theme 'ample)
+(enable-theme 'afternoon)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;

@@ -23,4 +23,5 @@ If you follow the steps above, and then install this project's `init.el` into `~
 
 ### Notes
 
-I've added a .screenrc file I use constantly on remote systems to keep emacs running smoothly.
+I've added a `.screenrc` file I use constantly on remote systems to keep Emacs running smoothly on those hosts if I'm disconnected.
+
