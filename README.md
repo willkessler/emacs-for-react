@@ -20,3 +20,7 @@ mkdir ~/.emacs.d
 ```
 
 If you follow the steps above, and then install this project's `init.el` into `~/.emacs.d`, and start up emacs,  you should be good to go with everything (ala Spacemacs).
+
+### Notes
+
+I've added a .screenrc file I use constantly on remote systems to keep emacs running smoothly.
