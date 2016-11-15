@@ -16,10 +16,7 @@ Just follow these steps to get Emacs up on Ubuntu with minimal efforts:
 apt-get update
 apt-get upgrade
 apt-get install -y emacs
-apt-get install -y zsh
 mkdir ~/.emacs.d
 ```
 
 If you follow the steps above, and then install this project's `init.el` into `~/.emacs.d`, and start up emacs,  you should be good to go with everything (ala Spacemacs).
-
-Note: `sane-term` is set up in `init.el` to use `zsh`.
