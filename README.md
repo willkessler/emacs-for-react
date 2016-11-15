@@ -8,6 +8,8 @@ I recently started to work on some React projects. My crusty old emacs setup was
 
 I wondered, was there a way to make Emacs 24/25 do just as well as Spacemacs but for today's coders?  I built a new `init.el` from the ground up, and I think I've got a lot of the functionality there that you'd get out of Spacemacs. Plus I fixed a bunch of niggling issues that have bothered me for years (e.g. wonky shell behavior), and made `web-mode` happier within JSX files.  
 
+## Usage
+
 Just follow these steps to get Emacs up on Ubuntu with minimal efforts:
 
 ```
