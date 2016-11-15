@@ -206,6 +206,8 @@
 ;;
 ;; Set up magit
 ;; cf: https://magit.vc/manual/magit/Getting-started.html#Getting-started
+;; and quick tutorial here:
+;; http://jr0cket.co.uk/2012/12/driving-git-with-emacs-pure-magic-with.html
 ;;
 (global-set-key (kbd "C-x g") 'magit-status)
 
