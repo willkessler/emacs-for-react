@@ -1,5 +1,6 @@
 ;;; package -- Configuring emacs for React editing
 ;;; Last update: 11/15/2016. By Will Kessler
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;
 ;; Set up melpa.
